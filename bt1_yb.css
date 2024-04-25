@@ -1,0 +1,20 @@
+/*Đặt thuộc tính cho khối	menu_dọc*/
+#menu_doc {
+margin-top:5px;
+padding-left:5px;
+padding-right:70%;
+}
+#menu_doc li
+{
+list-style:none;	/* bỏ dấu chấm mặc định của thẻ li*/
+font-family:Tahoma;
+font-size:15px;
+text-align:left;	/*căn trái chữ của menu*/
+font-weight:bold;
+color:#000000;
+background:#E5E5E5;	/*đặt màu nền của	từng menu*/
+height:30px;	/*đặt chiều cao mỗi menu*/
+padding-left:10px;
+padding-top:5px;
+margin-top:5px;	/*mỗi menu cách nhau 5px*/
+}
